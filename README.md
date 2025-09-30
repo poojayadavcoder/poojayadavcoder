@@ -1,41 +1,43 @@
 # Hi there, I'm Pooja Yadav 👋  
 
-**Frontend Developer | React.js Enthusiast | UI/UX Learner**  
+**Frontend Developer | React.js & Next.js Enthusiast | UI/UX Learner**  
 
 ---
 
 ## 💻 Tech Stack  
-HTML | CSS | JavaScript (ES6+) | React.js | Tailwind CSS | Git | REST API  
+HTML | CSS | JavaScript (ES6+) | React.js | Next.js | Tailwind CSS | Git & GitHub | REST API  
 
 ---
 
 ## 🌟 About Me  
-I’m **Pooja Yadav**, a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web applications.  
-I love turning ideas into interactive digital experiences and I’m always learning modern frontend technologies.  
+I’m **Pooja Yadav**, a passionate **Frontend Developer** with strong command over **React.js, Next.js, Tailwind CSS, JavaScript, HTML, and CSS**.  
+I love building clean, responsive, and user-friendly applications while continuously learning and improving my skills.  
 
-Currently exploring **Next.js** and **TypeScript** to expand my development toolkit.  
+Currently, I’m exploring **Backend Development with Node.js** to become a **Full-Stack Developer**.  
 
 ---
 
 ## 🚀 What I Do  
 - 🎨 **Frontend Development**: Responsive, accessible, and visually appealing UIs.  
-- ⚛ **React.js Applications**: Reusable components, state management, and API integration.  
+- ⚛ **React & Next.js Applications**: Component-driven development, state management, and API integration.  
 - 🚀 **Performance Optimization**: Fast load times and smooth navigation.  
+- 🛠 **Problem Solving**: Writing clean and maintainable code.  
 
 ---
 
 ## 🛠 Skills & Tools  
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)  
-- **Frontend Frameworks:** React.js, Tailwind CSS  
-- **Version Control:** Git, GitHub  
-- **Other Skills:** API Integration, Responsive Web Design, Debugging & Problem-Solving  
+- **Frontend Frameworks:** React.js, Next.js, Tailwind CSS  
+- **Backend (Exploring):** Node.js  
+- **Version Control:** Git & GitHub  
+- **Other Skills:** API Integration, Responsive Web Design, Debugging  
 
 ---
 
 ## 📌 Currently Working On  
-- Building **React-based projects** to strengthen my portfolio  
-- Learning **Next.js** for server-side rendering & SEO  
-- Exploring **TypeScript** for type-safe React apps  
+- Building **React & Next.js projects** to strengthen my portfolio  
+- Exploring **Node.js** for backend development  
+- Learning **TypeScript** for type-safe applications  
 
 ---
 
@@ -46,4 +48,5 @@ Currently exploring **Next.js** and **TypeScript** to expand my development tool
 ---
 
 💬 **Let’s Connect & Collaborate!**  
-I’m always open to working on exciting frontend projects, sharing ideas, and learning new skills.  
+I’m always open to working on exciting projects, sharing ideas, and learning new technologies.  
+
