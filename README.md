@@ -54,6 +54,11 @@ I love **learning by building projects**, solving problems, and improving my cod
 
 ---
 
+** 👀 Profile Views **
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=poojayadavcoder&color=0e75b6" />
+</p>
 ## 🛠 Skills & Tools  
 
 **Frontend**
