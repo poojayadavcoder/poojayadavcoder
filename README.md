@@ -10,10 +10,10 @@
 HTML5 | CSS3 | JavaScript (ES6+)
 
 **Frontend**  
-React.js | Next.js | Tailwind CSS | Responsive Design  
+React.js | Next.js | Redux | React Query | Tailwind CSS | Responsive Design  
 
 **Backend**  
-Node.js | Express.js | REST APIs | JWT Authentication  
+Node.js | Express.js | REST APIs | JWT Authentication | Socket | Redis 
 
 **Database**  
 MongoDB  
