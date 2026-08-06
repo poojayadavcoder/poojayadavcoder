@@ -1,6 +1,6 @@
 # Hi there, I'm Pooja Yadav 👋  
 
-**MERN Stack Developer | Building Scalable & Production-Ready Applications**
+**Full Stack Developer | Building Scalable & Production-Ready Applications**
 
 ---
 
@@ -10,7 +10,7 @@
 HTML5 | CSS3 | JavaScript (ES6+)  
 
 **Frontend**  
-React.js | Next.js | Redux | React Query | Tailwind CSS | Responsive Design  
+React.js | Next.js | React Native | Redux | React Query | Tailwind CSS | Responsive Design  
 
 **Backend**  
 Node.js | Express.js | REST APIs | JWT Authentication | WebSockets | Redis  
@@ -25,7 +25,7 @@ Git | GitHub | Postman | VS Code
 
 ## 🌟 About Me  
 
-Hi, I'm **Pooja Yadav**, a **MERN Stack Developer from Rajasthan, India**.
+Hi, I'm **Pooja Yadav**, a **Full Stack Developer from Rajasthan, India**.
 
 I focus on **building real-world, production-ready applications** rather than just writing code. My approach is centered around creating **efficient, scalable, and user-friendly products**.
 
